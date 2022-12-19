@@ -489,6 +489,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 29D96E5B1BCC34CD00F571A5;
@@ -1007,6 +1008,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.alamofire.AFNetworkActivityLogger;
 				PRODUCT_NAME = "$(inherited)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 			};
 			name = Debug;
 		};
@@ -1029,6 +1031,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.alamofire.AFNetworkActivityLogger;
 				PRODUCT_NAME = "$(inherited)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 			};
 			name = Release;
 		};
